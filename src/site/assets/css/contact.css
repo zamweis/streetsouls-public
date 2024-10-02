@@ -1,0 +1,102 @@
+.contacts {
+    display: flex;
+}
+
+.contacts > div.contacts-flex.left-contact {
+    width: calc(50%);
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.contacts > div.contacts-flex.left-contact > div.contact-text {
+    width: calc(60% - 1rem);
+    text-align: right;
+    align-self: flex-end;
+    margin: auto;
+    margin-right: 1rem;
+}
+
+.contacts > div.contacts-flex.left-contact > div.image.fit.rounded {
+    margin-bottom: 0;
+    margin-right: 4rem;
+    max-width: 200px;
+    margin: auto;
+}
+
+.contacts > div.contacts-flex.right-contact {
+    width: calc(50%);
+    display: flex;
+}
+
+.contacts > div.contacts-flex.right-contact > div.contact-text {
+    width: calc(60% - 1rem);
+    text-align: left;
+    align-self: flex-end;
+    margin: auto;
+    margin-left: 1rem;
+}
+
+/*.contacts > div.contacts-flex.right-contact > div.contact-text > header > h4,*/
+/*.contacts > div.contacts-flex.left-contact > div.contact-text > header > h4{*/
+/*    color: #ffffff;*/
+/*}*/
+/*.contacts > div.contacts-flex.right-contact > div.contact-text > header > p,*/
+/*.contacts > div.contacts-flex.left-contact > div.contact-text > header > p{*/
+/*    color: #e3e3e3;*/
+/*}*/
+
+
+.contacts > div.contacts-flex.right-contact > div.image.fit.rounded {
+    margin-right: 1rem;
+    margin-left: 4rem;
+    margin-bottom: 0;
+    max-width: 200px;
+    margin: auto;
+}
+
+@media screen and (max-width: 980px) {
+    .contacts > div.contacts-flex.left-contact > div.image.fit.rounded {
+        margin-right: 3rem;
+    }
+
+    .contacts > div.contacts-flex.right-contact > div.image.fit.rounded {
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .contacts > div.contacts-flex.left-contact > div.image.fit.rounded {
+        margin-right: 1rem;
+    }
+
+    .contacts > div.contacts-flex.right-contact > div.image.fit.rounded {
+        margin-left: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 570px) {
+    .contacts {
+        flex-flow: column;
+        align-items: center;
+    }
+
+    .contacts > div {
+        margin-bottom: 2rem;
+        width: 100%;
+    }
+
+    .contacts > div.contacts-flex.left-contact,
+    .contacts > div.contacts-flex.right-contact {
+        width: 100%;
+    }
+
+    .contacts > div.contacts-flex.right-contact > div.image.fit.rounded > img {
+        border: solid 0.35em rgba(144, 144, 144, 0.25);
+    }
+
+    .contacts > div.contacts-flex.left-contact > div.image.fit.rounded > img {
+        border: solid 0.35em rgba(144, 144, 144, 0.25);
+    }
+}

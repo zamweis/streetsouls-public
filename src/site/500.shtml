@@ -1,0 +1,7 @@
+<!--#include virtual="error_top.php" -->
+</section>
+<!--#set var="code" value="500" -->
+<!--#set var="reason" value="Internal Server Error" -->
+<!--#set var="msg" value="The request was not completed. The server met an unexpected condition." -->
+<!--#include virtual="error.shtml" -->
+<!--#include virtual="error_bottom.php" -->

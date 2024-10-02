@@ -1,0 +1,74 @@
+/* common-header */
+section.special, article.special {
+    text-align: center;
+}
+
+header p {
+    position: relative;
+    margin: 0 0 1.5rem 0;
+}
+
+header h2 + p {
+    font-size: 1.25rem;
+    margin-top: -1rem;
+}
+
+header h3 + p {
+    font-size: 1.1rem;
+    margin-top: -0.8rem;
+}
+
+header h4 + p,
+header h5 + p,
+header h6 + p {
+    font-size: 0.9rem;
+    margin-top: -0.6rem;
+}
+
+header p {
+    color: #bbb;
+}
+
+.common-header {
+    /*margin-bottom: 3rem;*/
+    /*margin-top: 3rem;*/
+}
+
+/* language selection */
+div.languageDiv {
+    background-color: transparent;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    z-index: 50;
+}
+
+/* media screen */
+@media screen and (max-width: 980px) {
+    div.languageDiv {
+        display: none;
+    }
+
+    .common-header {
+        /*margin-bottom: 2rem;*/
+        /*margin-top: 2rem;*/
+    }
+
+    header > h2 {
+        font-size: 1.5rem;
+    }
+
+    header h2 + p {
+        font-size: 1.15rem;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    header > h2 {
+        font-size: 1.4rem;
+    }
+
+    header h2 + p {
+        font-size: 1rem;
+    }
+}

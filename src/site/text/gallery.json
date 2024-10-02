@@ -1,0 +1,44 @@
+{
+    "title": {
+        "en": "Gallery",
+        "fr": "Galerie",
+        "de": "Galerie",
+        "lb": "Galerie"
+    },
+    "morePhotos": {
+        "en": "MORE PHOTOS",
+        "fr": "PLUS DE PHOTOS",
+        "de": "MEHR FOTOS",
+        "lb": "M\u00c9I FOTOEN"
+    },
+    "allPhotos": {
+        "en": "All photos",
+        "fr": "Toutes les photos",
+        "de": "Alle Fotos",
+        "lb": "All Fotoen"
+    },
+    "likeIt": {
+        "en": "Do you like this dog?",
+        "fr": "Vous aimez ce chien?",
+        "de": "M\u00f6gen Sie diesen Hund?",
+        "lb": "Gef\u00e4llt iech d\u00ebsen Hond?"
+    },
+    "race": {
+        "en": "Race",
+        "fr": "Race",
+        "de": "Rasse",
+        "lb": "Rass"
+    },
+    "description": {
+        "en": "Description",
+        "fr": "Description",
+        "de": "Beschreibung",
+        "lb": "Beschreiwung"
+    },
+    "age": {
+        "en": "Age",
+        "fr": "\u00c2ge",
+        "de": "Alter",
+        "lb": "Alter"
+    }
+}

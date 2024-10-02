@@ -1,0 +1,7 @@
+<!--#include virtual="error_top.php" -->
+</section>
+<!--#set var="code" value="401" -->
+<!--#set var="reason" value="Unauthorized" -->
+<!--#set var="msg" value="The requested page requires authentication" -->
+<!--#include virtual="error.shtml" -->
+<!--#include virtual="error_bottom.php" -->

@@ -1,0 +1,7 @@
+<!--#include virtual="error_top.php" -->
+</section>
+<!--#set var="code" value="404" -->
+<!--#set var="reason" value="Not Found" -->
+<!--#set var="msg" value="The requested page does not exist" -->
+<!--#include virtual="error.shtml" -->
+<!--#include virtual="error_bottom.php" -->

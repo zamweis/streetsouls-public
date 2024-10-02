@@ -1,0 +1,53 @@
+AddDefaultCharset UTF-8
+DirectoryIndex home.php
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} !^www.streetsouls.lu$ [NC]
+RewriteRule ^(.*)$ https://www.streetsouls.lu/$1 [L,R=301]
+
+RewriteCond %{SERVER_PORT} !=443
+RewriteRule ^(.*)$ https://www.streetsouls.lu/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} !^www.streetsouls.lu$
+RewriteRule ^(.*)$ https://www.streetsouls.lu/$1 [R=301,L]
+
+
+
+
+Options +FollowSymLinks -MultiViews
+
+RewriteBase /
+
+#Multi language version
+RewriteCond %{REQUEST_FILENAME} -s  [OR]
+RewriteCond %{REQUEST_FILENAME} -l  [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+#EN
+RewriteRule ^en/([^.]+)/?$ $1  [L,NC]
+RewriteRule ^en/([^.]+\.php)/?$ $1  [L,NC]
+RewriteRule ^en/?$ home.php  [L,NC]
+
+#FR
+RewriteRule ^fr/([^.]+)/?$ $1  [L,NC]
+RewriteRule ^fr/([^.]+\.php)/?$ $1  [L,NC]
+RewriteRule ^fr/?$ home.php  [L,NC]
+
+#LB
+RewriteRule ^lb/([^.]+)/?$ $1  [L,NC]
+RewriteRule ^lb/([^.]+\.php)/?$ $1  [L,NC]
+RewriteRule ^lb/?$ home.php  [L,NC]
+
+#FR
+RewriteRule ^de/([^.]+)/?$ $1  [L,NC]
+RewriteRule ^de/([^.]+\.php)/?$ $1  [L,NC]
+RewriteRule ^de/?$ home.php  [L,NC]
+
+RewriteCond %{DOCUMENT_ROOT}/$1\.php -f [NC]
+RewriteRule ^(.+?)/?$ $1.php  [L,NC]
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule (.*) $1.php [L]
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule (.*) $1.html [L]

@@ -1,0 +1,20 @@
+version: '3'
+services:
+  apache:
+    container_name: "ss_apache"
+    build: .
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - "127.0.0.1:8080:80"
+    environment:
+      BASIC_USER: 'root'
+      BASIC_PASSWORD: 'admin'
+
+  mariadb:
+    container_name: "ss_mariadb"
+    image: "mariadb:10.5"
+    environment:
+      MYSQL_ROOT_PASSWORD: "streetsouls"
+    ports:
+      - "127.0.0.1:3306:3306"

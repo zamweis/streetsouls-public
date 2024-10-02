@@ -1,0 +1,68 @@
+{
+    "gallery": {
+        "en": "Gallery",
+        "fr": "Galerie",
+        "de": "Galerie",
+        "lb": "Galerie"
+    },
+    "about": {
+        "en": "About Us",
+        "fr": "\u00c0 Propos",
+        "de": "\u00dcber Uns",
+        "lb": "Iwwert Ons"
+    },
+    "home": {
+        "en": "Home",
+        "fr": "Accueil",
+        "de": "Start",
+        "lb": "Start"
+    },
+    "contact": {
+        "en": "Contact",
+        "fr": "Contact",
+        "de": "Kontakt",
+        "lb": "Kontakt"
+    },
+    "terms": {
+        "en": "Terms and conditions",
+        "fr": "Conditions g\u00e9n\u00e9rales",
+        "de": "Gesch\u00e4ftsbedingungen",
+        "lb": "Konditiounen"
+    },
+    "languages": {
+        "en": "Languages",
+        "fr": "Langues",
+        "de": "Sprachen",
+        "lb": "Sproochen"
+    },
+    "cookieconsent": {
+        "en": {
+            "message": "This website uses cookies to ensure you get the best experience on our website.",
+            "link": "Learn more",
+            "href": "terms_and_conditions",
+            "target": "_blank",
+            "button": "I Agree!"
+        },
+        "fra": {
+            "message": "Ce site web utilise des cookies pour vous garantir la meilleure exp\u00e9rience sur notre site.",
+            "link": "Plus d'informations",
+            "href": "terms_and_conditions",
+            "target": "_blank",
+            "button": "Je suis d'accord!"
+        },
+        "de": {
+            "message": "Diese Webseite verwendet Cookies, um sicherzustellen, dass Sie die bestm\u00f6glichen Ergebnisse auf unserer Seite erzielen.",
+            "link": "Erfahren Sie mehr",
+            "href": "terms_and_conditions",
+            "target": "_blank",
+            "button": "Einverstanden!"
+        },
+        "lb": {
+            "message": "D\u00ebs Webs\u00e4it benotzt Cookien fir s\u00e9cher ze sinn, datt Dir d\u00e9i bescht Ergebnisser op eiser Webs\u00e4it kritt.",
+            "link": "Weider Informatiounen",
+            "href": "terms_and_conditions",
+            "target": "_blank",
+            "button": "Ech st\u00ebmmen zou!"
+        }
+    }
+}

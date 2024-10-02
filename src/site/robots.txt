@@ -1,0 +1,31 @@
+# ===================================
+# Erstellt am: 16.05.2021, 18:08
+# Webseite: http://http://streetsouls.lu
+# ===================================
+
+Sitemap: http://streetsouls.lu/sitemap.xml
+
+# ===================================
+# Folgende Seiten sollen nicht indexiert werden:
+# ===================================
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /templates/
+Disallow: /text/
+Disallow: /webmail/
+Disallow: /*.shtml$
+Disallow: /error*
+
+# ===================================
+# Schließe folgende Spider komplett aus:
+# ===================================
+
+User-agent: WebReaper
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: HTTrack
+User-agent: Microsoft.URL.Control
+User-agent: EmailCollector
+User-agent: penthesilea
+Disallow: /

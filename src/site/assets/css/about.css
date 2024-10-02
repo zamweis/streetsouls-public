@@ -1,0 +1,81 @@
+/* flex-grid */
+.flex-grid {
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+.flex-grid > .flex > .flex{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin: 0;
+}
+.flex-grid > .flex > .flex > :nth-child(1){
+    width: calc(50% - 1rem);
+    margin-right: 2rem;
+}
+
+.flex-grid > .flex > .flex > :nth-child(2){
+    width: calc(50% - 1rem);
+    margin-right: 0;
+}
+.flex-grid > .flex > .flex > :nth-child(3){
+    width: calc(50% - 2rem);
+    margin-right: 0;
+}
+
+.flex-grid .image {
+    background: #FFF;
+}
+
+.flex-grid .image.fit {
+    margin: 0;
+}
+
+.flex-grid > div.flex {
+    display: flex;
+    flex-flow: column;
+    flex-wrap: nowrap
+}
+
+#hidden-when-big{
+    display: none;
+    margin: 0;
+}
+
+#hidden-when-big > header > h2{
+    margin: 0;
+    margin-top: 1rem;
+}
+
+#hidden-when-small > header > h2{
+    margin: 0;
+}
+
+@media screen and (max-width: 1250px) {
+    #hidden-when-big{
+        display: block;
+    }
+    #hidden-when-small{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 980px) {
+
+    .flex-grid > .flex > .flex > :nth-child(1){
+        width: calc(100%);
+        margin: 0 0 1rem;
+    }
+    .flex-grid > .flex > .flex > :nth-child(2){
+        width: calc(100%);
+        margin: 0;
+    }
+
+    #hidden-when-big{
+        display: none;
+    }
+    #hidden-when-small{
+        display: block;
+    }
+}

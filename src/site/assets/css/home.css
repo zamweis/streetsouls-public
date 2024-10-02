@@ -1,0 +1,54 @@
+/* flex-grid */
+.flex-grid {
+    width: 90%;
+    /*margin: 0 0 2.5rem 0;*/
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.flex-grid > .flex > .flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin: 0;
+}
+
+.flex-grid > .flex > .flex > :nth-child(1) {
+    width: calc(50% - 1rem);
+    margin-right: 2rem;
+}
+
+.flex-grid > .flex > .flex > :nth-child(2) {
+    width: calc(50% - 1rem);
+    margin-right: 0;
+}
+
+.flex-grid > .flex > .flex > :nth-child(3) {
+    width: calc(50% - 2rem);
+    margin-right: 0;
+}
+
+
+.flex-grid .image.fit {
+    margin: 0;
+}
+
+.flex-grid > div.flex {
+    flex-flow: column;
+    flex-wrap: nowrap
+}
+
+@media screen and (max-width: 980px) {
+
+    .flex-grid > .flex > .flex > :nth-child(1) {
+        width: calc(100%);
+        margin: 0 0 1rem;
+    }
+
+    .flex-grid > .flex > .flex > :nth-child(2) {
+        width: calc(100%);
+        margin: 0;
+    }
+}

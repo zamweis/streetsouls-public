@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} ^/admin
+RewriteRule ^(.*)$ lumen/public/$1 [L]
+
+RewriteCond %{REQUEST_URI} !/^admin
+RewriteRule ^(.*)$ site/$1 [L]

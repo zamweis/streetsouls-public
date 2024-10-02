@@ -1,0 +1,140 @@
+{
+    "euthanasia": {
+        "title": {
+            "en": "AVOID EUTHANASIA",
+            "fr": "\u00c9VITER L'EUTHANASIE",
+            "de": "EUTHANASIE VERMEIDEN",
+            "lb": "EUTHANASIE VERMEIDEN"
+        },
+        "subtitle": {
+            "en": "Saving Animals",
+            "fr": "Sauver Des Animaux",
+            "de": "Tiere Retten",
+            "lb": "D\u00e9iere Retten"
+        },
+        "content": {
+            "en": {
+                "p1": "Each year, millions of adoptable dogs and cats are euthanized, simply because too many pets come into shelters and too few people consider adoption when looking for a pet.",
+                "p2": "It's important to our association to spread this message because when more people decide to adopt a pet from a shelter instead of buying one from a breeder, the number of euthanized animals could be reduced dramatically.",
+                "p3": "By deciding to adopt, you save a pet by making it part of your family and you free shelter space for another pet who might desperately need it."
+            },
+            "fr": {
+                "p1": "Chaque ann\u00e9e, des millions de chiens et de chats adoptables sont euthanasi\u00e9s, simplement parce que trop d'animaux arrivent dans les refuges et que trop peu de gens envisagent l'adoption lorsqu'ils cherchent un animal de compagnie.",
+                "p2": "C'est important d'attirer l'attention sur cette situation, parce que si d'avantage de gens adoptaient des animaux venant d'un refuge au lieu de les acheter aupr\u00e8s d'un \u00e9leveur, le nombre d'animaux euthanasi\u00e9s pourrait \u00eatre consid\u00e9rablement r\u00e9duit.",
+                "p3": "Lorsque vous adoptez, vous sauvez d\u2019abord un animal en l'int\u00e9grant dans votre famille et ensuite en lib\u00e9rant une place au refuge pour un autre animal qui pourrait en avoir d\u00e9sesp\u00e9r\u00e9ment besoin."
+            },
+            "de": {
+                "p1": "Jedes Jahr werden Millionen adoptierbarer Hunde und Katzen eingeschl\u00e4fert, einfach weil zu viele Tiere in Tierheimen ankommen und zu wenige Menschen eine Adoption in Betracht ziehen, wenn sie nach einem Haustier suchen.",
+                "p2": "Unserem Verein ist es wichtig, diese Botschaft zu verbreiten, denn wenn sich mehr Menschen dazu entschlie\u00dfen, ein Haustier aus einem Tierheim zu adoptieren, anstatt eines von einem Z\u00fcchter zu kaufen, k\u00f6nnte die Zahl der eingeschl\u00e4ferten Tiere drastisch reduziert werden.",
+                "p3": "Wenn Sie adoptieren, retten Sie zuerst ein Tier, indem Sie es in Ihre Familie aufnehmen und dann indem Sie einen Platz im Tierheim f\u00fcr ein anderes Tier freigeben, das diesen Platz dringend ben\u00f6tigt."
+            },
+            "lb": {
+                "p1": "Millioune adopt\u00e9ierbar H\u00ebnn a Kazen ginn all Joer ageschl\u00e9ifert, just well zevill D\u00e9ieren an D\u00e9ierenasyler ukommen an ze w\u00e9ineg Leit a Betruecht z\u00e9ien z'adopt\u00e9ieren, wa se no engem Hausd\u00e9ier sichen.",
+                "p2": "Et ass eis wichteg op d\u00ebs Situatioun opmierksam ze maachen, well wann sech m\u00e9i Leit dozou entschl\u00e9issen, en Hausd\u00e9ier aus engem D\u00e9ierenasyl z'adopt\u00e9ieren amplaz eent vun engem Ziichter ze kafen, k\u00e9int d'Zuel vun den ageschl\u00e9iferten D\u00e9ieren drastesch reduz\u00e9iert ginn.",
+                "p3": "Wann Dir adopt\u00e9iert, h\u00eblleft Dir als \u00e9ischt engem D\u00e9ier, andeems der et an \u00c4r Famill ophuelt an dann och nach, well Dir eng Plaz am Asyl fr\u00e4i macht fir en anert D\u00e9ier, dat se dr\u00e9ngend brauch."
+            }
+        }
+    },
+    "puppyMills": {
+        "title": {
+            "en": "AVOID PUPPY MILLS",
+            "fr": "\u00c9VITEZ LES USINES \u00c0 CHIOTS",
+            "de": "VERMEIDEN SIE WELPENFABRIKEN",
+            "lb": "EVIT\u00c9IERT WELPEFABRIKEN"
+        },
+        "subtitle": {
+            "en": "Don't Support The Wrong Side",
+            "fr": "Ne Supportez Pas Le Mauvais Cot\u00e9",
+            "de": "Unterst\u00fctzen Sie Nicht Die Falsche Seite",
+            "lb": "\u00cbnnerst\u00ebtzt Net D\u00e9i Falsch S\u00e4it"
+        },
+        "content": {
+            "en": {
+                "p1": "If you buy a dog from a pet store, online seller or flea market, you\u2019re almost certainly getting a dog from a puppy mill.",
+                "p2": "Puppy mills are factory-style breeding facilities that put profit above the welfare of dogs: their only goal is to breed as many dogs as possible for the lowest possible price. The animals are held under shockingly poor circumstances: abuse, bad hygiene and no proper medical care.",
+                "p3": "The moms of these puppies are kept in small cages to be used for breeding over and over again, they have a life without love and with very little to no hope at all of ever finding a true home. When they're no longer profitable they are discarded by being killed, abandoned or sold at auction.",
+                "p4": "The puppies get often separated way too early from their moms, they aren't given the medical care they need, they don't get socialized and most of the time the owners don't stick to the recommended vaccination program. For those reasons puppies from puppy mills are often sick and show troubled behaviour.",
+                "p5": "By adopting a dog from an animal shelter you can consciously decide not to support the business of puppy mills."
+            },
+            "fr": {
+                "p1": "Si vous achetez un chien dans une animalerie, un site de vente en ligne ou un march\u00e9 aux puces, il est tr\u00e8s probable que vous achetez un chien d\u2019une usine \u00e0 chiots.",
+                "p2": "Les usines \u00e0 chiots sont des installations d'\u00e9levage de type industriel qui font passer le profit avant le bien-\u00eatre des chiens. Leur seul objectif est d'\u00e9lever autant de chiens que possible \u00e0 un prix aussi bas que possible. Les animaux des usines \u00e0 chiots sont log\u00e9s dans des conditions scandaleusement mauvaises, il y a un manque de soin et d'hygi\u00e8ne, les animaux sont maltrait\u00e9s et les soins m\u00e9dicaux sont inad\u00e9quats.",
+                "p3": "Les mamans de ces chiots sont gard\u00e9es dans des cages pour \u00eatre accoupl\u00e9es encore et encore pendant des ann\u00e9es, sans contact humain et avec peu d'espoir de rejoindre un jour une famille. Et une fois qu'ils ne sont plus rentables, les chiennes reproductrices sont simplement jet\u00e9es - tu\u00e9es, abandonn\u00e9es ou vendues aux ench\u00e8res.",
+                "p4": "Les chiots sont souvent s\u00e9par\u00e9s trop t\u00f4t de leur maman, ils ne re\u00e7oivent pas les soins m\u00e9dicaux n\u00e9cessaires, ne sont pas socialis\u00e9s et les \u00e9leveurs souvent ne suivent pas le programme de vaccination recommand\u00e9. Les chiens sont souvent tr\u00e8s malades et pr\u00e9sentent de ce fait des troubles du comportement.",
+                "p5": "En adoptant un chien d'un refuge vous prenez la d\u00e9cision consciente de ne pas soutenir l'activit\u00e9 des usines \u00e0 chiots."
+            },
+            "de": {
+                "p1": "Wenn Sie einen Hund in einer Tierhandlung, einem Online-Shop oder auf einem Flohmarkt kaufen, ist es sehr wahrscheinlich, dass Sie einen Hund aus einer Welpenfabrik kaufen.",
+                "p2": "Welpenfabriken sind Zuchtanlagen im Industriestil, die den finanziellen Gewinn vor das Wohlergehen der Hunde stellen. Ihr einziges Ziel ist es, so viele Hunde wie m\u00f6glich zum niedrigstm\u00f6glichen Preis zu z\u00fcchten. Diese Tiere sind unter erschreckend schlechten Bedingungen untergebracht, es mangelt an Pflege und Hygiene, die Tiere werden misshandelt und die medizinische Versorgung ist unzureichend. ",
+                "p3": "Die M\u00fctter dieser Welpen werden in K\u00e4figen gehalten, um jahrelang immer wieder gedeckt zu werden, ohne menschlichen Kontakt und mit wenig Hoffnung, eines Tages von einer Familie aufgenommen zu werden. Und wenn sie die gew\u00fcnschte Leistung nicht mehr bringen, werden sie einfach weggeworfen - get\u00f6tet, aufgegeben oder versteigert. ",
+                "p4": "Welpen werden oft zu fr\u00fch von ihrer Mutter getrennt, sie erhalten nicht die notwendige medizinische Versorgung, sind nicht sozialisiert und Z\u00fcchter folgen oft nicht dem empfohlenen Impfprogramm. Hunde sind oft sehr krank und zeigen oft Verhaltensst\u00f6rungen auf. ",
+                "p5": "Indem Sie einen Hund aus einem Tierheim adoptieren, treffen Sie die bewusste Entscheidung, die Aktivit\u00e4t der Welpenfabriken nicht zu unterst\u00fctzen."
+            },
+            "lb": {
+                "p1": "Wann Dir en Hond aus engem D\u00e9ierebuttek, Online Gesch\u00e4ft oder Floumaart kaaft, ass et ganz wahrscheinlech datt Dir en Hond aus enger Welpefabrik kaaft.",
+                "p2": "Welpefabriken sinn Zuchtanlagen am industriellen Stil, d\u00e9i de Profit virun d'Wuel vum D\u00e9ier stellen. Hiert eenzegt Zil ass et sou vill H\u00ebnn w\u00e9i m\u00e9iglech zum niddregstm\u00e9igleche Pr\u00e4is ze ziichten. D\u2019Welpefabrikd\u00e9ieren ginn an schock\u00e9ierend schlechten Zoust\u00e4nn gehal, et feelt u Fleeg an Hygi\u00e8ne, d'D\u00e9iere ginn m\u00ebsshandelt an di medizinesch Versuergung ass mangelhaft. ",
+                "p3": "D'Mamme vun d\u00ebse Welpen ginn an K\u00e4fege gehale fir iwwer Joeren \u00ebmmer nees gedeckt ze ginn, ouni m\u00ebnschleche Kontakt a mat w\u00e9ineg Hoffnung enges Daags an eng Famill ze kommen. An wa se net m\u00e9i profitabel sinn, ginn se einfach entsuergt - \u00ebmbruecht, verlooss oder op enger Stee verkaf. ",
+                "p4": "D'Welpe ginn dacks ze fr\u00e9i vun hirer Mamm getrennt, si kr\u00e9ien net d\u00e9i noutwenneg medizinesch Versuergung, si ginn net sozialis\u00e9iert an d'Ziichter halen sech net un den Impfprogramm. Dofir sinn d'H\u00ebnn dacks vill krank a weise Verhalensopf\u00e4llegketen op. ",
+                "p5": "Andeems Dir en Hond aus engem Asyl adopt\u00e9iert, maacht Dir d\u00e9i bewosst Entscheedung, d'Aktivit\u00e9it vun de Welpefabrike net z'\u00ebnnerst\u00ebtzen."
+            }
+        }
+    },
+    "overBreeding": {
+        "title": {
+            "en": "AVOID OVERBREEDING",
+            "fr": "\u00c9VITEZ L\u2019\u00c9LEVAGE S\u00c9LECTIF",
+            "de": "VERMEIDET \u00dcBERZ\u00dcCHTUNG",
+            "lb": "EVIT\u00c9IERT IWWERZIICHTUNG"
+        },
+        "subtitle": {
+            "en": "Hybrids Are Healthier",
+            "fr": "Les Hybrides Sont En Meilleure Sant\u00e9",
+            "de": "Mischlinge Sind Ges\u00fcnder",
+            "lb": "Baaschterten Si M\u00e9i Gesond"
+        },
+        "content": {
+            "en": {
+                "p1": "In the last 100 years, certain dog breeds have been overbred to such an extent that they have massive health problems. A multitude of the distinctive, breed-typical \u201cbeauty features\u201c, such as the oblique back of the german shepherd, are the result of years of overbreeding. Also, allegedly sweet noises of some dog breeds like the puffing of the pug, are results of these practices.",
+                "p2": "Crossbreeds, however, since they are the result of coincidence, are less likely to develop hereditary diseases than the average pedigree dog. Your veterinary expenses will probably be lower. Their life expectancy is also higher than that of purebred dogs, which will allow you to enjoy the time with your dog longer."
+            },
+            "fr": {
+                "p1": "Au cours des 100 derni\u00e8res ann\u00e9es, certaines races de chiens ont \u00e9t\u00e9 victime d\u2019un l'\u00e9levage s\u00e9lectif et d\u2019un manque de diversit\u00e9 g\u00e9n\u00e9tique au point qu'ils ont des probl\u00e8mes de sant\u00e9 massifs. Une multitude des soi-disant \u00ab traits de beaut\u00e9 \u00bb , typiques de certaines races, tels que le dos oblique du berger, sont le r\u00e9sultat d'ann\u00e9es de reproduction excessives. En outre, les bruits suppos\u00e9s mignons de quelques races, comme le ronflement du carlin, sont le r\u00e9sultat de ces pratiques.",
+                "p2": "Les chiens b\u00e2tards cependant, comme ils sont le fruit du hasard, ont moins de chances de d\u00e9velopper des maladies h\u00e9r\u00e9ditaires que la moyenne des chiens de race. Vos frais de v\u00e9t\u00e9rinaire seront donc probablement moins importants. Leur esp\u00e9rance de vie est aussi plus \u00e9lev\u00e9e que celle des chiens de race ce qui vous permettra de profiter plus longtemps de votre chien."
+            },
+            "de": {
+                "p1": "In den letzten 100 Jahren wurden einige Hunderassen Opfer selektiver Z\u00fcchtung und mangelnder genetischer Vielfalt bis zu dem Punkt, an dem sie massive gesundheitliche Probleme haben. Eine Vielzahl von sogenannten 'Sch\u00f6nheitsmerkmalen', die f\u00fcr bestimmte Rassen typisch sind, wie z.B. der schr\u00e4ge R\u00fccken des Sch\u00e4ferhundes, sind das Ergebnis von \u00fcberm\u00e4\u00dfigen Zuchtjahren. Au\u00dferdem sind die vermeintlich niedlichen Ger\u00e4usche einiger Rassen, wie z. B. das Schnarchen des Mopses, das Ergebnis dieser Praktiken.",
+                "p2": "Mischlinge sind jedoch, da sie das Ergebnis eines Zufalls sind, weniger anf\u00e4llig f\u00fcr Erbkrankheiten als der durchschnittliche Rassehund. Ihre Tierarztkosten werden wahrscheinlich geringer sein. Ihre Lebenserwartung ist auch h\u00f6her als die von reinrassigen Hunden, was Ihnen erlaubt, die Zeit mit Ihrem Hund l\u00e4nger zu genie\u00dfen. "
+            },
+            "lb": {
+                "p1": "An de leschten 100 Joer sinn eng Rei H\u00ebnnrassen Affer vun enger selektiver Zucht an domat och vun engem Mangel u genetescher Diversit\u00e9it ginn, esou dat se massiv gesondheetlech Problemer hunn. Sougenannte 'Sch\u00e9inheetsmerkmale', d\u00e9i typesch vir best\u00ebmmte Rasse sinn, sou w\u00e9i den d\u00e4itsche Sch\u00e9iferh\u00ebnn hire R\u00e9ck, deen no hannen erof geet, sinn d'Resultat vu Joren un exzessiver Reproduktioun. Ausserdeem sinn d\u00e9i vermeintlech l\u00e9if Ger\u00e4icher vun e puer Rassen, sou w\u00e9i dem Mops s\u00e4i Schnaarchen, d'Resultat vun d\u00ebse Praktiken. ",
+                "p2": "Baaschterten awer sinn d'Resultat vum Zoufall, dofir si si manner uf\u00e4lleg fir Ierfkrankheeten w\u00e9i den duerchschn\u00ebttleche Rassehond. \u00c4r Veterin\u00e4rsk\u00e4schte w\u00e4erten dofir wahrscheinlech m\u00e9i niddreg sinn. Hir Liewenserwaardung ass och m\u00e9i h\u00e9ich w\u00e9i d\u00e9i vu rengrassegen H\u00ebnn, sou k\u00ebnnt Dir och m\u00e9i laang vun der Z\u00e4it mat \u00e4rem Hond profit\u00e9ieren. "
+            }
+        }
+    },
+    "companion": {
+        "title": {
+            "en": "ARE YOU LOOKING FOR A NEW COMPANION?",
+            "fr": "VOUS CHERCHEZ UN NOUVEAU COMPAGNON?",
+            "de": "SIE SIND AUF DER SUCHE NACH EINEM TREUEN BEGLEITER?",
+            "lb": "DIR SIDD OP DER SICH NO EMGEM TREIE BEGLEEDER?"
+        },
+        "subtitle": {
+            "en": "Don't Shop. Adopt!",
+            "fr": "N\u2019achetez pas, adoptez!",
+            "de": "Nicht kaufen, adoptieren!",
+            "lb": "Net kafen, adopteieren!"
+        },
+        "content": {
+            "en": "One act of generosity can save many lives! We match homeless shelter pets with loving, forever homes. Meet our pets and learn more about their wonderful personalities. Help us to save lives! Adopt a homeless pet, sign up to volunteer, foster or make a donation.",
+            "fr": "Un seul acte de g\u00e9n\u00e9rosit\u00e9 peut sauver de nombreuses vies! Nous essayons de trouver pour les animaux d'asyle des foyers affectueux et d\u00e9finitifs. Rencontrez nos animaux de compagnie et apprenez-en davantage sur leurs merveilleuses personnalit\u00e9s. Aidez-nous \u00e0 sauver des vies! Adoptez un animal de compagnie d'un asyle, devenez b\u00e9n\u00e9vole, devenez parrain ou faites un don.",
+            "de": "Ein Akt der Gro\u00dfz\u00fcgigkeit kann viele Leben retten! Wir vermitteln Haustiere aus dem Tierheim in ein liebevolles, dauerhaftes Zuhause. Treffen Sie unsere Haustiere und erfahren Sie mehr \u00fcber ihre wunderbare Pers\u00f6nlichkeit. Helfen Sie uns, Leben zu retten! Adoptieren Sie ein Haustier aus dem Tierheim, werden Sie freiwilliger Helfer, bieten Sie sich als Pflegefamilie an oder machen Sie eine Spende.",
+            "lb": "Een Akt vun Generosit\u00e9it ka vill Liewe retten. Mir siche fir D\u00e9ieren aus dem Asyl e definitvt Doheem, wou mat L\u00e9ift no hinne gekuckt g\u00ebtt. L\u00e9iert eis D\u00e9iere kennen a fannt m\u00e9i iwwert hir wonnerbar Pers\u00e9inlechkeet eraus. H\u00eblleft eis Liewe retten! Adopt\u00e9iert een D\u00e9ier aus dem Asyl, gitt Benevole, huelt en D\u00e9ier a Fleeg oder maacht een Don."
+        }
+    },
+    "moreInfo": {
+        "en": "More Information",
+        "fr": "Plus d'Informations",
+        "de": "Mehr Informationen",
+        "lb": "M\u00e9i Informatiounen"
+    }
+}

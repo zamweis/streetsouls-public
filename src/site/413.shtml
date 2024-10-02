@@ -1,0 +1,7 @@
+<!--#include virtual="error_top.php" -->
+</section>
+<!--#set var="code" value="413" -->
+<!--#set var="reason" value="Request Entity Too Large" -->
+<!--#set var="msg" value="The request exceeds the capacity limit" -->
+<!--#include virtual="error.shtml" -->
+<!--#include virtual="error_bottom.php" -->

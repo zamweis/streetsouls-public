@@ -1,0 +1,44 @@
+    <title><!--#echo var="code" --> <!--#echo var="reason" --></title>
+    <style>
+        .status-code, .status-reason, .reason-text {
+            font-family: Arial, Helvetica, sans-serif;
+            color: #CCCCCC;
+            text-align: center;
+        }
+        .status-code{
+            font-size: 500%;
+        }
+        .status-reason {
+            font-size: 250%;
+        }
+        .status-reason, .status-code, .reason-text, .status-image  {
+            display: block;
+            position: relative;
+            margin: auto;
+        }
+        .reason-text {
+            font-size: 125%;
+            margin-bottom: 1rem;
+        }
+    </style>
+    </head>
+    <body>
+        <div class="container">
+            <secion class="response-info">
+                <span class="status-code"><!--#echo var="code" --></span>
+                <!-- <img class="status-image" src="/images/design/dog.png" alt="picture not loaded"> -->
+                <span class="status-reason"><!--#echo var="reason" --></span>
+            </section>
+            <p class="reason-text"><!--#echo var="msg" --></p>
+        </div>
+        <script>
+            /* Make Language Selection invisible */
+            $(document).ready(function () {
+                var all = document.getElementsByClassName('languages');
+                for (var i = 0; i < all.length; i++) {
+                    all[i].style.display = 'none';
+                }
+            });
+        </script>
+    </body>
+</html>

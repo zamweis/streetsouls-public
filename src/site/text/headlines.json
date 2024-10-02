@@ -1,0 +1,94 @@
+{
+    "slideshow": {
+        "title": {
+            "t1": {
+                "en": "Adopt",
+                "fr": "Adopter",
+                "de": "Adoptieren",
+                "lb": "Adopt\u00e9ieren"
+            },
+            "t2": {
+                "en": "Foster",
+                "fr": "Soigner",
+                "de": "Betreuen",
+                "lb": "Betreien"
+            },
+            "t3": {
+                "en": "Find",
+                "fr": "Trouver",
+                "de": "Finden",
+                "lb": "Fannen"
+            },
+            "t4": {
+                "en": "Donate",
+                "fr": "Faire Un Don",
+                "de": "Spenden",
+                "lb": "Spenden"
+            },
+            "t5": {
+                "en": "Help",
+                "fr": "Aider",
+                "de": "Helfen",
+                "lb": "H\u00ebllefen"
+            }
+        }
+    },
+    "slogan": {
+        "s1": {
+            "en": "A team with a heart for animals",
+            "fr": "Une \u00e9quipe avec un coeur pour les animaux",
+            "de": "Ein Team mit einem Herzen f\u00fcr Tiere",
+            "lb": "E Team mat engem H\u00e4erz fir D\u00e9ieren"
+        },
+        "s2": {
+            "en": "WE ARE WAITING FOR YOU",
+            "fr": "NOUS VOUS ATTENDONS",
+            "de": "WIR WARTEN AUF SIE",
+            "lb": "MIR WARDEN OP IECH"
+        },
+        "s3": {
+            "en": "get to know us",
+            "fr": "faites notre connaissance",
+            "de": "lernt uns kennen",
+            "lb": "l\u00e9iert eis kennen"
+        },
+        "s4": {
+            "en": "We are Street Souls",
+            "fr": "Nous sommes Street Souls",
+            "de": "Wir sind Street Souls",
+            "lb": "Mir sinn Street Souls"
+        },
+        "s5": {
+            "en": "We give identities",
+            "fr": "Nous donnons des identit\u00e9s",
+            "de": "Wir geben Identit\u00e4ten",
+            "lb": "Mir ginn Identit\u00e9iten"
+        }
+    },
+    "rights": {
+        "en": "All rights reserved. Published by Street Souls Asbl",
+        "fr": "Tous les droits sont r\u00e9serv\u00e9s. Publi\u00e9 par Street Souls Asbl",
+        "de": "Alle Rechte vorbehalten. Ver\u00f6ffentlicht von Street Souls Asbl",
+        "lb": "All Rechter reserv\u00e9iert. Erausgi vu Street Souls Asbl"
+    },
+    "description": {
+        "about": {
+            "en": "Get to know us. We are a team of kind-hearted volunteers who work for the welfare of animals.",
+            "fr": "Street Souls est une organisation \u00e0 but non lucratif au Luxembourg qui \u0153uvre pour le sauvetage des animaux. Nous nous effor\u00e7ons \u00e0 trouver pour ces animaux un foyer chaleureux.",
+            "de": "Lernt uns kennen. Wir sind ein Team aus gutherzigen Freiwilligen, die sich f\u00fcr das Wohl der Tiere einsetzt.",
+            "lb": "L\u00e9iert eis kennen. Mir sinn en Team vu guttherzegen Fr\u00e4iw\u00eblleger d\u00e9i sech fir d'Wuel vun D\u00e9ieren asetzen."
+        },
+        "home": {
+            "en": "Street Souls is a non-profit organization in Luxembourg that works for animal rescue. We try to find loving homes for those animals.",
+            "fr": "Street Souls est une organisation \u00e0 but non lucratif au Luxembourg qui \u0153uvre pour le sauvetage des animaux. Nous nous effor\u00e7ons \u00e0 trouver pour ces animaux un foyer chaleureux.",
+            "de": "Street Souls ist eine gemeinn\u00fctzige Organisation in Luxemburg die sich f\u00fcr die Tierrettung einsetzt. Wir versuchen f\u00fcr diese Tiere ein liebevolles Zuhause zu finden.",
+            "lb": "Street Souls ass eng asbl zu L\u00ebtzebuerg d\u00e9i sech fir D\u00e9iererettung asetzt. Mir versichen fir d\u00ebs D\u00e9ieren ee sch\u00e9int Doheem ze fannen."
+        },
+        "contact": {
+            "en": "If you got any questions concerning animal rescue, feel free to contact us. You can write us  or call us.",
+            "fr": "Si vous avez des questions concernant le sauvetage des animaux, n'h\u00e9sitez pas \u00e0 nous contacter. Vous pouvez nous \u00e9crire ou nous appeler.",
+            "de": "Wenn Sie Fragen zur Tierrettung haben, k\u00f6nnen Sie sich gerne an uns wenden. Sie k\u00f6nnen uns schreiben oder anrufen.",
+            "lb": "Wann Dir Froen hutt iwwer D\u00e9iererettung, k\u00ebnnt Dir eis g\u00e4ren kontakt\u00e9ieren. Dir k\u00ebnnt eis schreiwen oder uruffen."
+        }
+    }
+}

@@ -1,0 +1,87 @@
+/* Feature */
+.feature-grid {
+    position: relative;
+}
+
+.feature-grid:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.feature-grid .feature {
+    display: inline-block;
+    float: left;
+    margin-bottom: 2em;
+    width: 50%;
+}
+
+.feature-grid .feature:last-child {
+    margin-bottom: 0;
+}
+.feature-grid .feature .content {
+    width: 60%;
+}
+
+.feature-grid .feature .image {
+    width: 30%;
+}
+
+.feature-grid .feature .image img {
+    display: inline;
+    max-width: 70%;
+}
+
+.feature-grid .feature:nth-child(odd) .content, .feature-grid .feature:nth-child(odd) .image {
+    float: right;
+    margin-right: 5%;
+    text-align: right;
+}
+
+.feature-grid .feature:nth-child(even) .content, .feature-grid .feature:nth-child(even) .image {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+}
+
+/* media screen */
+@media screen and (max-width: 1280px) {
+    .feature-grid .feature {
+        margin-bottom: 2em;
+        display: block;
+        width: 100%;
+    }
+    .feature-grid .feature .content {
+        width: 65%;
+    }
+    .feature-grid .feature .image {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    .feature-grid .feature {
+        margin-bottom: 1em;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .feature-grid .feature .content,
+    .feature-grid .feature .image {
+        display: block;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        text-align: center !important;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .feature-grid .feature .content,
+    .feature-grid .feature .image {
+        width: 100%;
+    }
+    .feature-grid .feature .image {
+        margin-bottom: 1em;
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "form": {
+        "name": {
+            "en": "Name & First name",
+            "fr": "Nom & Pr\u00e9nom",
+            "de": "Name & Vorname",
+            "lb": "Numm & Virnumm"
+        },
+        "subject": {
+            "title": {
+                "en": "-Subject-",
+                "fr": "-Sujet-",
+                "de": "-Betreff-",
+                "lb": "-Sujet-"
+            },
+            "options": {
+                "animal": {
+                    "en": "Info Animal",
+                    "fr": "Info Animal",
+                    "de": "Info Tier",
+                    "lb": "Info D\u00e9ier"
+                },
+                "payment": {
+                    "en": "Payment",
+                    "fr": "Paiement",
+                    "de": "Bezahlung",
+                    "lb": "Bezuelung"
+                },
+                "foster": {
+                    "en": "Foster",
+                    "fr": "Parrain",
+                    "de": "Pate",
+                    "lb": "P\u00e4tter"
+                },
+                "other": {
+                    "en": "Other",
+                    "fr": "Autres",
+                    "de": "Anderes",
+                    "lb": "Aneres"
+                }
+            }
+        },
+        "copy": {
+            "en": "Send me a copy of this message",
+            "fr": "Envoyez-moi une copie de ce message",
+            "de": "Sendet mir eine Kopie dieser Nachricht",
+            "lb": "Sch\u00e9ckt mer eng Kopie vun d\u00ebsem Message"
+        },
+        "robot": {
+            "en": "I'm not a robot",
+            "fr": "Je ne suis pas un robot",
+            "de": "Ich bin kein Roboter",
+            "lb": "Ech si keen Roboter"
+        },
+        "message": {
+            "en": "Enter your message",
+            "fr": "Entrez votre message",
+            "de": "Nachricht eingeben",
+            "lb": "Gitt \u00e4re Message an"
+        },
+        "send": {
+            "en": "SEND",
+            "fr": "ENVOYER",
+            "de": "SENDEN",
+            "lb": "SCH\u00c9CKEN"
+        },
+        "reset": {
+            "en": "RESET",
+            "fr": "R\u00c9INITIALISER",
+            "de": "ZUR\u00dcCKSETZEN",
+            "lb": "ZER\u00c9CKSETZEN"
+        }
+    },
+    "phone": {
+        "en": "Telephone",
+        "fr": "T\u00e9l\u00e9phone",
+        "de": "Telefon",
+        "lb": "Telefon"
+    },
+    "table": {
+        "secretary": {
+            "en": "Secretary",
+            "fr": "Secr\u00e9taire",
+            "de": "Sekret\u00e4r",
+            "lb": "Sekret\u00e4r"
+        },
+        "name": {
+            "en": "Name",
+            "fr": "Nom",
+            "de": "Name",
+            "lb": "Numm"
+        },
+        "role": {
+            "en": "Role",
+            "fr": "R\u00f4le",
+            "de": "Rolle",
+            "lb": "Roll"
+        }
+    },
+    "mailStatus": {
+        "recaptchaInternal": {
+            "en": "an error occurred within recaptcha",
+            "fr": "une erreur s'est produite dans recaptcha",
+            "de": "Innerhalb von recaptcha ist ein Fehler aufgetreten",
+            "lb": "E Feeler ass am Recaptcha geschitt"
+        },
+        "recaptchaUnchecked": {
+            "en": "recaptcha was not checked",
+            "fr": "recaptcha n'a pas \u00e9t\u00e9 v\u00e9rifi\u00e9",
+            "de": "recaptcha wurde nicht \u00fcberpr\u00fcft",
+            "lb": "recaptcha gouf net iwwerpr\u00e9ift"
+        },
+        "invalidSubject": {
+            "en": "Please select a subject",
+            "fr": "Veuillez s\u00e9lectionner un sujet",
+            "de": "Bitte w\u00e4hlen Sie ein Betreff",
+            "lb": "Wielt w.e.g. e Sujet"
+        },
+        "invalidEmail": {
+            "en": "Your email address is invalid",
+            "fr": "Votre adresse courriel n'est pas valide",
+            "de": "Ihre Emailadresse ist ung\u00fcltig",
+            "lb": "\u00c4r Emailadress as net g\u00fclteg"
+        },
+        "invalidName": {
+            "en": "Your name was empty",
+            "fr": "Votre nom \u00e9tait vide",
+            "de": "Ihr Name war leer",
+            "lb": "\u00c4re Numm war eidel"
+        },
+        "invalidMessage": {
+            "en": "Your message was empty",
+            "fr": "Votre message \u00e9tait vide",
+            "de": "Ihre Nachricht war leer",
+            "lb": "\u00c4re Message war eidel"
+        },
+        "sendFailed": {
+            "en": "Sending mail failed",
+            "fr": "L'envoi du courriel a \u00e9chou\u00e9",
+            "de": "Das Senden der E-Mail ist fehlgeschlagen",
+            "lb": "D'Sende vun der E-Mail ass net gaangen"
+        },
+        "sendCopyFailed": {
+            "en": "Sending a copy failed",
+            "fr": "L'envoi d'une copie a \u00e9chou\u00e9",
+            "de": "Das Senden einer Kopie ist fehlgeschlagen",
+            "lb": "Eng Kopie konnt net ofgesch\u00e9ckt ginn"
+        },
+        "success": {
+            "en": "Your mail was send successfully",
+            "fr": "Votre courriel a bien \u00e9t\u00e9 envoy\u00e9",
+            "de": "Ihre Mail wurde erfolgreich versandt",
+            "lb": "\u00c4re Mail ass fortgesch\u00e9ckt"
+        }
+    },
+    "callUs": {
+        "en": "You can call us",
+        "fr": "Vous pouvez nous appeler",
+        "de": "Sie k\u00f6nnen uns anrufen",
+        "lb": "Dir k\u00ebnnt eis uruffen"
+    },
+    "writeUs": {
+        "en": "Or write us",
+        "fr": "Ou nous \u00e9crire",
+        "de": "Oder uns anschreiben",
+        "lb": "Oder eis schreiwen"
+    },
+    "findus": {
+        "en": "Find us",
+        "fr": "Trouvez-nous",
+        "de": "Finden Sie uns",
+        "lb": "Fannt eis"
+    },
+    "error": {
+        "fill": {
+            "en": "Please fill in this field",
+            "fr": "Veuillez remplir ce champ",
+            "de": "Bitte f\u00fcllen Sie dieses Feld aus",
+            "lb": "F\u00ebllt w.e.g. d\u00ebst Feld aus"
+        },
+        "email": {
+            "en": "Please enter a valid email",
+            "fr": "Veuillez saisir une adresse courriel valide",
+            "de": "Bitte geben Sie eine g\u00fcltige Email-Adresse ein",
+            "lb": "Gitt w.e.g. eng valabel E-Mail-Adress un"
+        },
+        "list": {
+            "en": "Please select an item in the list",
+            "fr": "Veuillez s\u00e9lectionner un \u00e9l\u00e9ment dans la liste",
+            "de": "Bitte w\u00e4hlen Sie ein Element in der Liste",
+            "lb": "Wielt w.e.g. en Element aus der L\u00ebscht"
+        }
+    }
+}
