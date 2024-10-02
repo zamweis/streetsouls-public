@@ -3,7 +3,7 @@
 
 This repository serves as a demonstration of my experience and capabilities in web development using various technologies. It showcases an early alpha version of a web platform that is under active development and primarily intended as a proof-of-concept.
 
-Please note that several components and features have been intentionally omitted from this repository due to security and privacy considerations.
+Please note that several components and features, including a custom-built minimal CMS, have been intentionally omitted from this repository due to security and privacy considerations.
 
 ## Project Overview
 
